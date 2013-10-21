@@ -1,6 +1,10 @@
 {
 	"always_show_minimap_viewport": true,
+	"auto_complete_delay": 30,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
 	"color_scheme": "Packages/Dayle Rees Color Schemes/Gloom.tmTheme",
+	"default_line_ending": "unix",
 	"file_exclude_patterns": ["*.scssc"],
 	"font_size": 16,
 	"highlight_line": true,
@@ -10,13 +14,9 @@
 	"margin": 10,
 	"preview_on_click": true,
 	"shift_tab_unindent": true,
+	"tree_animation_enabled": false,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true,
-	"auto_complete_delay": 30,
-	"bold_folder_labels": true,
-	"caret_style": "phase",
-	"highlight_modified_tabs": true,
-	"tree_animation_enabled": false
+	"word_wrap": true
 }
 
 // --- INSTALLED PACKAGES
